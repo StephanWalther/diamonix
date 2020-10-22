@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">496643450414</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">walther.project.game.six.one</string>
+    <!-- achievement Novice -->
+    <string name="achievement_novice" translatable="false">CgkIrsyGkroOEAIQAA</string>
+    <!-- achievement Advanced -->
+    <string name="achievement_advanced" translatable="false">CgkIrsyGkroOEAIQAQ</string>
+    <!-- achievement Master -->
+    <string name="achievement_master" translatable="false">CgkIrsyGkroOEAIQAg</string>
+    <!-- achievement At a Blow -->
+    <string name="achievement_at_a_blow" translatable="false">CgkIrsyGkroOEAIQAw</string>
+    <!-- achievement At a Blow Extreme -->
+    <string name="achievement_at_a_blow_extreme" translatable="false">CgkIrsyGkroOEAIQBA</string>
+    <!-- achievement One Colour -->
+    <string name="achievement_one_colour" translatable="false">CgkIrsyGkroOEAIQBQ</string>
+    <!-- achievement One Colour Extreme -->
+    <string name="achievement_one_colour_extreme" translatable="false">CgkIrsyGkroOEAIQBg</string>
+    <!-- achievement All Colours -->
+    <string name="achievement_all_colours" translatable="false">CgkIrsyGkroOEAIQBw</string>
+    <!-- achievement Marathon -->
+    <string name="achievement_marathon" translatable="false">CgkIrsyGkroOEAIQCA</string>
+    <!-- achievement Marathon Extreme -->
+    <string name="achievement_marathon_extreme" translatable="false">CgkIrsyGkroOEAIQCQ</string>
+    <!-- leaderboard High Scores -->
+    <string name="leaderboard_high_scores" translatable="false">CgkIrsyGkroOEAIQCg</string>
+    <!-- leaderboard Average High Scores -->
+    <string name="leaderboard_average_high_scores" translatable="false">CgkIrsyGkroOEAIQCw</string>
+</resources>

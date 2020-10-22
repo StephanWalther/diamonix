@@ -1,0 +1,460 @@
+
+all.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 988
+  size: 594, 1056
+  orig: 594, 1056
+  offset: 0, 0
+  index: -1
+popUpBack
+  rotate: false
+  xy: 1, 637
+  size: 450, 349
+  orig: 450, 349
+  offset: 0, 0
+  index: -1
+sliderBack
+  rotate: false
+  xy: 597, 1935
+  size: 402, 109
+  orig: 402, 109
+  offset: 0, 0
+  index: -1
+buttonIndicator
+  rotate: false
+  xy: 1, 495
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+arrowLine
+  rotate: false
+  xy: 597, 1908
+  size: 238, 25
+  orig: 238, 25
+  offset: 0, 0
+  index: -1
+sliderLine
+  rotate: false
+  xy: 143, 623
+  size: 234, 12
+  orig: 234, 12
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 453, 877
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+buttonHighlight
+  rotate: false
+  xy: 1, 384
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+buttonLock
+  rotate: false
+  xy: 597, 1797
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+hexagon
+  rotate: false
+  xy: 143, 540
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+hexagonSpawning
+  rotate: false
+  xy: 453, 794
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+mark
+  rotate: false
+  xy: 1, 301
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+starSmall
+  rotate: false
+  xy: 597, 1708
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+diamondBlue
+  rotate: false
+  xy: 708, 1830
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+diamondGreen
+  rotate: false
+  xy: 238, 545
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+diamondRed
+  rotate: false
+  xy: 453, 716
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+diamondYellow
+  rotate: false
+  xy: 1, 223
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 597, 1632
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+symbolOnlineAchievements
+  rotate: false
+  xy: 453, 653
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+symbolOnlineRecords
+  rotate: false
+  xy: 1, 161
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+checkBoxCheckBox
+  rotate: false
+  xy: 597, 1568
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+symbolReplay
+  rotate: false
+  xy: 1, 93
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+sliderKnob
+  rotate: false
+  xy: 597, 1510
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+buttonHighlightSmall
+  rotate: false
+  xy: 1, 37
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+buttonSmall
+  rotate: false
+  xy: 597, 1454
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+symbolPlayTutorial
+  rotate: false
+  xy: 328, 568
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+symbolRecords
+  rotate: false
+  xy: 143, 495
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+symbolMusic
+  rotate: false
+  xy: 112, 443
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+symbolSettings
+  rotate: false
+  xy: 597, 1408
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+symbolVolume
+  rotate: false
+  xy: 597, 1363
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+symbolPlay
+  rotate: false
+  xy: 798, 1858
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+diamondBlueTriangle0
+  rotate: false
+  xy: 597, 1323
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondBlueTriangle1
+  rotate: false
+  xy: 597, 1283
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondBlueTriangle2
+  rotate: false
+  xy: 597, 1243
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondBlueTriangle3
+  rotate: false
+  xy: 597, 1203
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondBlueTriangle4
+  rotate: false
+  xy: 597, 1163
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondBlueTriangle5
+  rotate: false
+  xy: 597, 1123
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondGreenTriangle0
+  rotate: false
+  xy: 597, 1083
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondGreenTriangle1
+  rotate: false
+  xy: 597, 1043
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondGreenTriangle2
+  rotate: false
+  xy: 597, 1003
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondGreenTriangle3
+  rotate: false
+  xy: 152, 455
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+symbolCheckMarkWhite
+  rotate: false
+  xy: 1, 1
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+symbolCross
+  rotate: false
+  xy: 196, 498
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+diamondGreenTriangle4
+  rotate: false
+  xy: 238, 505
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondGreenTriangle5
+  rotate: false
+  xy: 284, 505
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+symbolInfo
+  rotate: false
+  xy: 564, 936
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+symbolCheckMarkBlue
+  rotate: false
+  xy: 708, 1795
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+diamondRedTriangle0
+  rotate: false
+  xy: 112, 403
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondRedTriangle1
+  rotate: false
+  xy: 198, 458
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondRedTriangle2
+  rotate: false
+  xy: 244, 465
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondRedTriangle3
+  rotate: false
+  xy: 290, 465
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondRedTriangle4
+  rotate: false
+  xy: 756, 1790
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondRedTriangle5
+  rotate: false
+  xy: 837, 1895
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondYellowTriangle0
+  rotate: false
+  xy: 883, 1895
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondYellowTriangle1
+  rotate: false
+  xy: 929, 1895
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondYellowTriangle2
+  rotate: false
+  xy: 835, 1855
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondYellowTriangle3
+  rotate: false
+  xy: 881, 1855
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondYellowTriangle4
+  rotate: false
+  xy: 927, 1855
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+diamondYellowTriangle5
+  rotate: false
+  xy: 564, 896
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+symbolSound
+  rotate: false
+  xy: 158, 417
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+symbolText
+  rotate: false
+  xy: 203, 420
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+arrowHead
+  rotate: false
+  xy: 975, 1898
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+indicationArrow
+  rotate: false
+  xy: 112, 371
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+symbolCrossSmall
+  rotate: false
+  xy: 686, 1775
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 1001, 2029
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
